@@ -1,3 +1,6 @@
 #Well Covered
 
-This project written by Cameron Francis and myself is for finding out if a (given its vertex and edge set) ny graph is well covered.
+This project is written by Cameron Francis and myself for finding out if a graph(given its vertex and edge set) is well covered.
+
+##Note
+Getting into Git
